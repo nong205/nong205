@@ -1,6 +1,6 @@
 # nong205
 <a href="#" target="_blank">
-  <img src="svg/thanhlongdev.svg" width="1200" alt="trungquandev-official" />
+  <img src="svg/thanhlongdev.svg" width="1200" alt="thanhlongdev-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -66,22 +66,22 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://www.facebook.com/thanh.long.878172" target="blank">
-    <img width="90" height="90" src="" alt="trungquandev-blog" />
+    <img width="90" height="90" src="" alt="thanhlongdev-blog" />
   </a>
   <a href="https://www.facebook.com/thanh.long.878172" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="thanhlongdev-facebook" />
   </a>
   <a href="" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="thanhlongdev-youtube" />
   </a>
   <a href="https://www.facebook.com/thanh.long.878172" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="thanhlongdev-linkedin" />
   </a>
   <a href="https://www.instagram.com/thanhlong27_2/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="thanhlongdev-instagram" />
   </a>
   <a href="mailto:longthanhnct@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="thanhlongdev-email" />
   </a>
 </div>
 
@@ -101,13 +101,13 @@
   <strong>📧 Hoặc Email: <a href="mailto:longthanhnct@gmail.com" target="_top">longthanhnct@gmail.com</a></strong>
 </p>
 <a href="" target="_blank">
-  <img src="" width="1200" alt="trungquandev-mot-lap-trinh-vien" />
+  <img src="" width="1200" alt="thanhlongdev-mot-lap-trinh-vien" />
 </a>
 
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/thanhlongdev-quotes.svg" width="846" height="150" alt="trungquandev-mot-lap-trinh-vien-mern-stack-advanced" />
+  <img src="svg/thanhlongdev-quotes.svg" width="846" height="150" alt="thanhlongdev-mot-lap-trinh-vien-mern-stack-advanced" />
 </a>
 
