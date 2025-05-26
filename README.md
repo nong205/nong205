@@ -66,7 +66,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://www.facebook.com/thanh.long.878172" target="blank">
-    <img width="90" height="90" src="" alt="thanhlongdev-blog" />
+    <img width="70" height="70" src="" alt="thanhlongdev-blog" />
   </a>
   <a href="https://www.facebook.com/thanh.long.878172" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="thanhlongdev-facebook" />
